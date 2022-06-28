@@ -2,7 +2,7 @@
 - 👀 I’m interested in applying Machine Learning to make the world better
 - 🌱 I’m currently training Predictive models
 - 💞️ I’m looking to collaborate on healthcare projects
-- 📫 How to reach me twitter/Linkedin (Azun Precious Ebite)
+- 📫 How to reach me twitter/Linkedin (Precious Ebite Azun)
 
 <!---
 precious-azun/precious-azun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

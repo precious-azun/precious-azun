@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @precious-azun
+- 👋 Hi, I’m Precious Ebite Azun
 - 👀 I’m interested in applying Machine Learning to make the world better
 - 🌱 I’m currently training Predictive models
 - 💞️ I’m looking to collaborate on healthcare projects

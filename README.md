@@ -3,6 +3,8 @@
 - 🌱 I’m currently training Predictive models
 - 💞️ I’m looking to collaborate on healthcare projects
 - 📫 How to reach me twitter/Linkedin (Precious Ebite Azun)
+![mlllll](https://user-images.githubusercontent.com/107571666/176520691-5838c79c-0cdd-46b4-8726-fac3a6d8e73a.png)
+
 
 As a result of machine learning algorithms, healthcare professionals can anticipate the presence or absence of diseases such as stroke, cancer, heart failure, etc. Knowing such information in advance will provide valuable guidance to physicians, who can then change their procedures as necessary and treat the patient appropriately. Health care is an intriguing field and I am interested in seeing it develop.
 

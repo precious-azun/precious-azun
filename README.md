@@ -4,14 +4,6 @@
 - 💞️ I’m looking to collaborate on healthcare projects
 - 📫 How to reach me twitter/Linkedin (Precious Ebite Azun)
 
-![mll](https://user-images.githubusercontent.com/107571666/176521856-82a8be60-91e8-4002-ae4b-0cf6b8904b74.png)
-
-As a result of machine learning algorithms, healthcare professionals can anticipate the presence or absence of diseases such as stroke, cancer, heart failure, etc. Knowing such information in advance will provide valuable guidance to physicians, who can then change their procedures as necessary and treat the patient appropriately. Health care is an intriguing field and I am interested in seeing it develop.
-
-We live in an age when diseases pose a great threat to our world and the top rising threat is Stroke. Currently, one out of four adults over the age of 25 will suffer a stroke during their lifetime, making it the world's leading cause of death and disability. As this is an emerging global crisis, research for early detection and treatment is essential. 
-
-So hi, I am Precious and I'm looking for a way we could improve the healthcare system and make these global rising diseases more readily detected and treated. Medical Engineering and machine learning in healthcare are fields in which I am especially passionate. At this time, I am building a community of Data Science/ Machine Learning analysts on Twitter and I have extensive experience with Python, MATLAB, Numpy, Pandas, Matplotlib, Seaborn, and Scikit-learn for developing predictive models for these diseases. 
-
 By working together, we can all make the world a healthier place to live in.
 
 <!---

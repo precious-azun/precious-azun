@@ -2,7 +2,7 @@
 - 👀 I’m interested in applying Machine Learning to make the world better
 - 🌱 I’m currently training Predictive models
 - 💞️ I’m looking to collaborate on healthcare projects
-- 📫 How to reach me twitter/Linkedin (Precious Ebite Azun)
+- 📫 How to reach me via Twitter/Linkedin (Precious Ebite Azun)
 
 By working together, we can all make the world a healthier place to live in.
 

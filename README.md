@@ -3,6 +3,7 @@
 - 🌱 I’m currently training Predictive models
 - 💞️ I’m looking to collaborate on healthcare projects
 - 📫 How to reach me via Twitter/Linkedin (Precious Ebite Azun)
+- 👀 My published articles are present here; https://medium.com/@preciousebiteazun
 
 By working together, we can all make the world a healthier place to live in.
 

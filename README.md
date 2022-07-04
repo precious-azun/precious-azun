@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Precious Ebite Azun
 - 👀 I’m interested in applying Machine Learning to make the world better
 - 🌱 I’m currently training Predictive models
-- 💞️ I’m looking to collaborate on healthcare projects
 - 👀 My published articles? [Click Here](https://medium.com/@preciousebiteazun)
 - [TWITTER](https://twitter.com/precious_Ebii) - [LINKEDIN](https://www.linkedin.com/in/precious-ebite-azun-17406570) - [MEDIUM](https://medium.com/@preciousebiteazun) - [COMMUNITY](https://twitter.com/i/communities/1535498358088925185)
 

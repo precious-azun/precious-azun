@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ---
 |  :calendar:Year    |       :blue_book:Projects      | Type of ML      | :mag:Algorithms |      :dart:Applied Technologies | :bookmark_tabs:Status | :newspaper:Publication |
 --        | --             | --          | -- | -- | -- | --
-| 2022 | [Airline_Time_forcasting](https://github.com/precious-azun/Airline_time_forcasting)| Supervised (Regression) |  Xgboost | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :link:[Click here](https://pages.github.com/)
+| 2022 | [Airline_Time_forcasting](https://github.com/precious-azun/Airline_time_forcasting/blob/main/Airline_time_forcasting.ipynb)| Supervised (Regression) |  Xgboost | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :link:[Click here](https://pages.github.com/)
 | 2022 | [Customer_Churn_Prediction]| Supervised (Classification) |  XGBoost, RF, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :link:[Click here](https://pages.github.com/)
 
 

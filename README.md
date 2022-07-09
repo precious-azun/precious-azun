@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 |  :calendar:Year    |       :blue_book:Projects      | Type of ML      | :mag:Algorithms |      :dart:Applied Technologies | :bookmark_tabs:Status | :newspaper:Publication |
 --        | --             | --          | -- | -- | -- | --
 | 2022 | [Stroke_Risk_Prediction](https://github.com/precious-azun/Stroke-prediction) | Supervised (Classification)|  KNN, LR, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark:| :link:[Click Here](https://link.medium.com/wRAyqZHEjrb)
-| 2022 | [Heart_Disease_Prediction](https://github.com/precious-azun/Heart-disease_Prediction/blob/main/Heart_disease_Prediction_using%204ML%20Algorithms.ipynb) | Supervised (Classification)|  KNN, LR, DT| Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
-| 2022 | [Fetal_Health_Prediction]  | Supervised (Classification) |KNN, LR, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :link:[Click here](https://pages.github.com/)
-| 2022 | [Lung_Cancer_Prediction](https://github.com/precious-azun/Lung_Cancer_Prediction)| Supervised (Classification) |  KNN, LR, DT , SVM | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :link:[Click here](https://pages.github.com/)
+| 2022 | [Heart_Disease_Prediction](https://github.com/precious-azun/Heart-disease_Prediction/blob/main/Heart_disease_Prediction_using%204ML%20Algorithms.ipynb) | Supervised (Classification)|  KNN, LR, DT| Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :hourglass:
+| 2022 | [Fetal_Health_Prediction]  | Supervised (Classification) |KNN, LR, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :hourglass:
+| 2022 | [Lung_Cancer_Prediction](https://github.com/precious-azun/Lung_Cancer_Prediction)| Supervised (Classification) |  KNN, LR, DT , SVM | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :hourglass:
 ---
 
 :rocket: **OTHER PROJECTS** 

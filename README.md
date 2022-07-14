@@ -21,12 +21,14 @@ You can click the Preview link to take a look at your changes.
 | 2022 | [Lung_Cancer_Prediction](https://github.com/precious-azun/Lung_Cancer_Prediction)| Supervised (Classification) |  KNN, LR, DT , SVM | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :hourglass:
 | 2022 | [Fetal_Health_Status-Prediction](https://github.com/precious-azun/Fetal_Health_Status-Prediction)  | Supervised (Classification) |KNN, LR, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :hourglass:
 
+
 ---
 
 :rocket: **OTHER PROJECTS** 
 ---
 |  :calendar:Year    |       :blue_book:Projects      | Type of ML      | :mag:Algorithms |      :dart:Applied Technologies | :bookmark_tabs:Status | 
 --        | --             | --          | -- | -- | -- 
+| 2022 | [Fake_Notes_Prediction](https://github.com/precious-azun/Fake_Notes_Prediction)| Supervised (Classification) | LG, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
 | 2022 | [Airline_Time_forcasting](https://github.com/precious-azun/Airline_time_forcasting)| Supervised (Regression) |  Xgboost | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
 | 2022 | [Customer_Churn_Prediction](https://github.com/precious-azun/Customer_Churn_Prediction)| Supervised (Classification) |  KNN, SVM, LG, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :link:[Click here](https://pages.github.com/)
 

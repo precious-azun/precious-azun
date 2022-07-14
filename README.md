@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 | 2022 | [Fake_Notes_Prediction](https://github.com/precious-azun/Fake_Notes_Prediction)| Supervised (Classification) | LR, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
 | 2022 | [Airline_Time_forcasting](https://github.com/precious-azun/Airline_time_forcasting)| Supervised (Regression) |  Xgboost | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
 | 2022 | [Water_Quality_Prediction](https://github.com/precious-azun/Water_Quality_Prediction)| Supervised (Classification) |  RF, LG, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
+| 2022 | [Loan_Default_Prediction](https://github.com/precious-azun/Loan_Default_Prediction)| Supervised (Classification) |  SVM, LG, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :link:[Click here](https://pages.github.com/)
 
 
 

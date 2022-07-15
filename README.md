@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 ---
 |  :calendar:Year    |       :blue_book:Projects      | Type of ML      | :mag:Algorithms |      :dart:Applied Technologies | :bookmark_tabs:Status | :newspaper:Publication |
 --        | --             | --          | -- | -- | -- | --
-| 2022 | [Stroke_Risk_Prediction](https://github.com/precious-azun/Stroke-prediction) | Supervised (Classification)|  KNN, LR, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark:| :link:[Click Here](https://link.medium.com/wRAyqZHEjrb)
-| 2022 | [Heart_Disease_Prediction](https://github.com/precious-azun/Heart-disease_Prediction) | Supervised (Classification)|  KNN, LR, DT| Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :white_check_mark:
-| 2022 | [Lung_Cancer_Prediction](https://github.com/precious-azun/Lung_Cancer_Prediction)| Supervised (Classification) |  KNN, LR, DT , SVM | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :hourglass:
+| 2022 | [Stroke_Risk_Prediction](https://github.com/precious-azun/Stroke-prediction) | Supervised (Classification)|  KNN, LOG.R, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark:| :link:[Click Here](https://link.medium.com/wRAyqZHEjrb)
+| 2022 | [Heart_Disease_Prediction](https://github.com/precious-azun/Heart-disease_Prediction) | Supervised (Classification)|  KNN, LOG.R, DT| Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :white_check_mark:
+| 2022 | [Lung_Cancer_Prediction](https://github.com/precious-azun/Lung_Cancer_Prediction)| Supervised (Classification) |  KNN, LOG.R, DT , SVM | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :hourglass:
 
 
 ---
@@ -27,10 +27,11 @@ You can click the Preview link to take a look at your changes.
 ---
 |  :calendar:Year    |       :blue_book:Projects      | Type of ML      | :mag:Algorithms |      :dart:Applied Technologies | :bookmark_tabs:Status | 
 --        | --             | --          | -- | -- | -- 
-| 2022 | [Fake_Notes_Prediction](https://github.com/precious-azun/Fake_Notes_Prediction)| Supervised (Classification) | LR, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
+| 2022 | [Fake_Notes_Prediction](https://github.com/precious-azun/Fake_Notes_Prediction)| Supervised (Classification) | LOG.R, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
+| 2022 | [Employees_Turnover_Prediction](https://github.com/precious-azun/Employees_Turnover_Prediction)| Supervised (Classification) |  KNN, LOG.R, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
 | 2022 | [Airline_Time_forcasting](https://github.com/precious-azun/Airline_time_forcasting)| Supervised (Regression) |  Xgboost | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
-| 2022 | [Water_Quality_Prediction](https://github.com/precious-azun/Water_Quality_Prediction)| Supervised (Classification) |  RF, LG, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
-| 2022 | [Loan_Default_Prediction](https://github.com/precious-azun/Loan_Default_Prediction)| Supervised (Classification) |  SVM, LG, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :link:[Click here](https://pages.github.com/)
+| 2022 | [Water_Quality_Prediction](https://github.com/precious-azun/Water_Quality_Prediction)| Supervised (Classification) |  RF, LOG.R, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
+| 2022 | [Loan_Default_Prediction](https://github.com/precious-azun/Loan_Default_Prediction)| Supervised (Classification) |  SVM, LOG.R, DT | Python Pandas Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :link:[Click here](https://pages.github.com/)
 
 
 

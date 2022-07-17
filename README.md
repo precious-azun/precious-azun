@@ -4,7 +4,7 @@
 - [TWITTER](https://twitter.com/precious_Ebii) - [LINKEDIN](https://www.linkedin.com/in/precious-ebite-azun-17406570) - [MEDIUM](https://medium.com/@preciousebiteazun) - [COMMUNITY](https://twitter.com/i/communities/1535498358088925185)
 ---
 
-Creating a healthier world for everyone starts with working together :heart: :muscle:
+Creating a healthier world for everyone starts with YOU & I :heart: :muscle:
 ---
 
 <!---

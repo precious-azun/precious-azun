@@ -2,7 +2,10 @@
 - 🌱 I’m currently training Predictive models
 - 👀 My published articles? [Click Here](https://medium.com/@preciousebiteazun)
 - [TWITTER](https://twitter.com/precious_Ebii) - [LINKEDIN](https://www.linkedin.com/in/precious-ebite-azun-17406570) - [MEDIUM](https://medium.com/@preciousebiteazun) - [COMMUNITY](https://twitter.com/i/communities/1535498358088925185)
+---
+
 By working together, we can all make the world a healthier place to live in.
+---
 
 <!---
 precious-azun/precious-azun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

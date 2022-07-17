@@ -18,8 +18,6 @@ You can click the Preview link to take a look at your changes.
 --        | --             | --          | -- | -- | -- | --
 | 2022 | [Stroke_Risk_Prediction](https://github.com/precious-azun/Stroke-prediction) | Supervised (Classification)|  KNN, LOG.R, DT | Python Pandas Numpy Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark:| :link:[Click Here](https://link.medium.com/wRAyqZHEjrb)
 | 2022 | [Heart_Disease_Prediction](https://github.com/precious-azun/Heart-disease_Prediction) | Supervised (Classification)|  KNN, LOG.R, DT|  Python Pandas Numpy Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :white_check_mark:
-| 2022 | [Lung_Cancer_Prediction](https://github.com/precious-azun/Lung_Cancer_Prediction)| Supervised (Classification) |  KNN, LOG.R, DT , SVM |  Python Pandas Numpy Seaborn Matplotlib Sklearn Scikit-learn | :hourglass: | :hourglass:
-
 
 ---
 

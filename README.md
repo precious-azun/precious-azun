@@ -4,7 +4,7 @@
 - [TWITTER](https://twitter.com/precious_Ebii) - [LINKEDIN](https://www.linkedin.com/in/precious-ebite-azun-17406570) - [MEDIUM](https://medium.com/@preciousebiteazun) - [COMMUNITY](https://twitter.com/i/communities/1535498358088925185)
 ---
 
-By working together, we can all make the world a healthier place to live in.
+Creating a healthier world for everyone starts with working together :heart: :muscle:
 ---
 
 <!---

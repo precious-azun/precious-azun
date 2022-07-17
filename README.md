@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Precious Ebite Azun
 - 👀 The application of Machine Learning to make the world a better place interests me
 - 🌱 I’m currently training Predictive models
 - 👀 My published articles? [Click Here](https://medium.com/@preciousebiteazun)
 - [TWITTER](https://twitter.com/precious_Ebii) - [LINKEDIN](https://www.linkedin.com/in/precious-ebite-azun-17406570) - [MEDIUM](https://medium.com/@preciousebiteazun) - [COMMUNITY](https://twitter.com/i/communities/1535498358088925185)
-
 By working together, we can all make the world a healthier place to live in.
 
 <!---
@@ -11,7 +9,6 @@ precious-azun/precious-azun is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ---
-
 :hospital: **HEALTHCARE PROJECTS** 
 ---
 |  :calendar:Year    |       :blue_book:Projects      | Type of ML      | :mag:Algorithms |      :dart:Applied Technologies | :bookmark_tabs:Status | :newspaper:Publication |

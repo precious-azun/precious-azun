@@ -24,8 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 :rocket: **OTHER PROJECTS** 
 ---
-|  :calendar:Year    |       :blue_book:Projects      | Type of ML      | :mag:Algorithms |      :dart:Applied Technologies | :bookmark_tabs:Status | 
---        | --             | --          | -- | -- | -- 
+|  :calendar:Year    |       :blue_book:Projects    | :bookmark: Dataset | Type of ML      | :mag:Algorithms |      :dart:Applied Technologies | :bookmark_tabs:Status | 
+--        | --             | --      |--    | -- | -- | -- 
 | 2022 | [Customer_Churn_Prediction](https://github.com/precious-azun/Customer_Churn_Prediction)| |Supervised (Classification) | SVM, BAG.C, KNN, R.F,LOG.R, DT |  Python Pandas Numpy Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
 | 2022 | [Fake_Notes_Prediction](https://github.com/precious-azun/Fake_Notes_Prediction)| |Supervised (Classification) | LOG.R, DT |  Python Pandas Numpy Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)
 | 2022 | [Employees_Turnover_Prediction](https://github.com/precious-azun/Employees_Turnover_Prediction)| |Supervised (Classification) |  KNN, LOG.R, DT |  Python Pandas Numpy Seaborn Matplotlib Sklearn Scikit-learn | :white_check_mark: | :link:[Click here](https://pages.github.com/)

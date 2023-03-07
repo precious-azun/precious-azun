@@ -1,6 +1,6 @@
 - 👀 The application of Machine Learning to make the world a better place interests me
 - 🌱 I’m currently training Predictive models
-- Calgary, AB, C
+- Calgary, AB, CA
 - 👀 My published articles? [Click Here](https://medium.com/@preciousebiteazun)
 - [TWITTER](https://twitter.com/precious_Ebii) - [LINKEDIN](https://www.linkedin.com/in/precious-ebite-azun-17406570) - [MEDIUM](https://medium.com/@preciousebiteazun) - [COMMUNITY](https://twitter.com/i/communities/1535498358088925185)
 ---

@@ -1,4 +1,4 @@
-- 👀 The application of Machine Learning to make the world a better place interests m
+- 👀 The application of Machine Learning to make the world a better place interests me
 - 🌱 I’m currently training Predictive models
 - Calgary, AB, CA
 - 👀 My published articles? [Click Here](https://medium.com/@preciousebiteazun)

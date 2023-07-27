@@ -1,4 +1,5 @@
 - 👀 The application of Machine Learning to make the world a better place interests me
+- Founder Neuro-HealthFocus (https://www.linkedin.com/company/neuro-healthfocus)
 - 🌱 I’m currently training Predictive models
 - Calgary, AB, CA
 - 👀 My published articles? [Click Here](https://medium.com/@preciousebiteazun)

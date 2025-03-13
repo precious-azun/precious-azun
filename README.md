@@ -1,4 +1,4 @@
-- 👀 The application of Machine Learning to make the world a better place interests m
+- 👀 The application of Machine Learning to make the world a better place interests mE
 - *Founder* :    Neuro-HealthFocus (https://www.linkedin.com/company/neuro-healthfocus)
 - 🌱 I’m currently training Predictive models
 - Calgary, AB, CA

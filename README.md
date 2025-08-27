@@ -2,6 +2,7 @@
 - *Founder* :    Neuro-HealthFocus (https://www.linkedin.com/company/neuro-healthfocus)
 - 🌱 I’m currently training Predictive models
 - Calgary, AB, CA
+- My #years research journey at the University of Calgary ()[Research Thesis](https://ucalgary.scholaris.ca/items/48010bef-b9c9-4592-b62c-bb9e26135b27)
 - 👀 My published articles? [Click Here](https://medium.com/@preciousebiteazun)
 - [TWITTER](https://twitter.com/precious_Ebii) - [LINKEDIN](https://www.linkedin.com/in/precious-ebite-azun-17406570) - [MEDIUM](https://medium.com/@preciousebiteazun) - [COMMUNITY](https://twitter.com/i/communities/1535498358088925185)
 ---

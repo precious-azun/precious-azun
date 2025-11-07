@@ -1,5 +1,6 @@
 - 👀 The application of Machine Learning to make the world a better place interests me
 - *Founder* :    Neuro-HealthFocus (https://www.linkedin.com/company/neuro-healthfocus)
+- *Co-Founder* :    AIHealthSync (https://www.linkedin.com/company/aihealthsync)
 - 🌱 I’m currently training Predictive models
 - Calgary, AB, CA
 - My 3-year research journey at the University of Calgary [Research Thesis](https://ucalgary.scholaris.ca/items/48010bef-b9c9-4592-b62c-bb9e26135b27)

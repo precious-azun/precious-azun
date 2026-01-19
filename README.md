@@ -1,4 +1,4 @@
-- 👀 The application of Machine Learning to make the world a better place interests me
+- 👀 The application of Machine Learning to make the world a better place interests m
 - *Founder* :    Neuro-HealthFocus (https://www.linkedin.com/company/neuro-healthfocus)
 - *Co-Founder* :    AIHealthSync (https://www.linkedin.com/company/aihealthsync)
 - 🌱 I’m currently training Predictive models
